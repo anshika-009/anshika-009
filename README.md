@@ -16,9 +16,6 @@ const me = {
   name: "Anshika Pal",
   college: "MNNIT Allahabad",
   degree: "B.Tech CSE (Class of 2029)",
-  role: ["Co-lead @ IDHTM (Aero Club)", "Backend tinkerer"],
-  currentlyBuilding: "A drone telemetry platform that doesn't lose its way home",
-  favouriteBug: "Flight 'home' = live coordinates. Fixed it. Drones are happy now.",
   fuel: ["chai", "LeetCode", "Docker logs at 2am"],
   openTo: ["internships", "open source", "hackathons"],
 };
