@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Anshika&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=CSE%20%40%20MNNIT%20%C2%B7%20Shipping%20things%20that%20actually%20run&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Anshika&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Shipping%20things%20that%20actually%20run&descAlignY=60&descSize=18" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=B.Tech+CSE+'29+%40+MNNIT+Allahabad;Co-lead+%40+Aero+Club+%E2%80%94+IDHTM+%F0%9F%9B%A9%EF%B8%8F;Java+%7C+Spring+Boot+%7C+FastAPI+%7C+PostgreSQL;300%2B+LeetCode+problems+and+counting" alt="Typing SVG" />
